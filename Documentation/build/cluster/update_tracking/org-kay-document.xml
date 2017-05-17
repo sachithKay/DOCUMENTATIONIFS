@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.kay.document">
+    <module_version install_time="1494930837307" last="true" origin="installer" specification_version="1.0">
+        <file crc="773687184" name="config/Modules/org-kay-document.xml"/>
+        <file crc="2111935302" name="modules/ext/jsoup-1.10.2-javadoc.jar"/>
+        <file crc="3573923864" name="modules/ext/jsoup-1.10.2-sources.jar"/>
+        <file crc="3678557854" name="modules/ext/jsoup-1.10.2.jar"/>
+        <file crc="2106835882" name="modules/ext/ojdbc6.jar"/>
+        <file crc="590716558" name="modules/org-kay-document.jar"/>
+    </module_version>
+</module>
